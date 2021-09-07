@@ -1,6 +1,6 @@
 # istanbulkart_clone
 
-A new Flutter project.
+İstanbulkart Uygulamasının Tasarım Klonu
 
 ## Getting Started
 
